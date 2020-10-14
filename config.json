@@ -1,0 +1,11 @@
+{
+  "rabbitMq": {
+    "host": "172.16.0.235",
+    "port": 5762,
+    "username": "go_test",
+    "password": "go_test",
+    "queue": {
+      "name": "go_test"
+    }
+  }
+}
